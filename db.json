@@ -1,0 +1,125 @@
+{
+  "main": {
+    "name": "Ashray A",
+    "occupation": "Full Stack Software Engineer",
+    "current_employer":"Cerner",
+    "description": "where I Develop,Maintain and fix Software applications which leverages various modern-day technologies",
+    "image": "profilepic.jpg",
+    "bio": "I am a fitness enthusiast, Nature lover at heart with an entrepreneurial spirit, a knack for organizing and management of daily life and passion for coding. Born in silicon city of India (Bengaluru) took an interest to gain technical knowledge on various concepts especially automation. Worked on various home automation projects like Burgular alarm system, Vehile speedometer based on hall effect sensor and Various applications of Bluetooth sensor. I like to travel, natural monuments and historical places are some of my interests also I like to binge-watch at available chances.",
+    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "ashray.a13@gmail.com",
+    "phone": "+91 9632804679",
+    "address": {
+      "street": "#800, 1st A Main, 1st A Cross, 2nd Phase, 7th Block, BSK 3rd Stage",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "560085"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://facebook.com/ashray.a.rao",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/ashray13",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ashray-a-28094312b/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/ashray_.a",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/ashray-github",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Knowledge on project management tools like Jira and Crucible Review, also additional knowledge on AWS EC2 and S3, Docker, Windows, Unix and linux based Operating Systems.",
+    "education": [
+      {
+        "school": "RVCE (R V College of Engineering)",
+        "degree": "Master of Computer Applications (MCA)",
+        "graduated": "August 2020",
+        "description": "Entered to the reputed college with a ranking of 32 on KCET, Learnt a lot of stuff especially in non-technical aspects, Some of which I can list as Time management, Money Management, Handling pressure situations, making acquintances or people skills, Documentation and communication. Learnt various technical skills as a part of curriculum."
+      },
+      {
+        "school": "RNSFGC (RNS First Grade college)",
+        "degree": "Bachelor of Computer Applications (BCA)",
+        "graduated": "May 2016",
+        "description": "Had a good experience with respect to learning computer science since I was vey eager to learn coding. Developed various small applications using basic framework like Visual basic, HTML, C and Java. Created various college level projects along with Documentation in order to collect funding for education of Masters."
+      }
+    ],
+    "work": [
+      {
+        "company": "Cerner",
+        "title": "Software Engineer",
+        "years": "Jan 2020 - Present",
+        "description": "Placed from college, joined as an Intern for 6 months and got converted to full time and have been working for more than a year, worked on various projects as an Intern as well as a Full-time employee, Had a huge learning curve with respect to SDLC process and project management process, With the guidance of Exceptional Mentors like Krishna and Amit learnt various aspects of coding like debugging which plays a major role in Software Engineer's role. Created a Python program to get the DDL commands executed in a particular timeframe using oracle Database and a simple frontend HTML page using python libraries to view it. Implemented a full END-END service feature using spring-boot and react using vue.js to determine and download service transaction logs. Implemented REST spring-boot service to display the data using graph database i.e., neo4j using cipher query language and Java. Daily monitoring of splunk to check cloud logs and finding appropriate fixes. Worked on creating data objects like macros to ease splunking. Worked on various services that runs on docker containers. Participation during code reviews using Tool like crucible"
+      },
+      {
+        "company": "Ignomagine",
+        "title": "Intern Software Engineer/Advisor",
+        "years": "May 2018 - 2019",
+        "description": "Joined hands in collaboration with a friend on his startup and provided technical expertise on various software development aspects. Led development of mobile app with a team of 3 to manipulate hardware leveraging Bluetooth connection using Android Studio and Gradle. Worked on IoT based projects using Aurdino UNO and Raspberry PI and learnt various aspects of Embedded C programming and Python. Created android application that can manipulate a refrigeration device along with a display to temperature and other factors using Mobile Application Development. Created an Android Application for Burglar alarm system."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "68%"
+      },
+      {
+        "name": "Java",
+        "level": "70%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "Springboot and maven",
+        "level": "70%"
+      },
+      {
+        "name": "VueJs",
+        "level": "50%"
+      },
+      {
+        "name": "MYSQL",
+        "level": "80%"
+      },
+      {
+        "name":"neo4j",
+        "level":"70%"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Even with delayed delivery of solution the product was upto the mark with detailed documentation. Very entusiastic and active particpation in coding, Nice technical knowledge, good ability to find simpler path to solutions and a great company to be with on and off the record.",
+        "user": "Abhii Bharadwaj... IGNOMAGINE(CEO)"
+      },
+      {
+        "text": "Nice management skills although grip on the language is sometimes sloppy, abilty to communicate is good. Nice management skills with available resources.",
+        "user": "Karthik.S... Software Engineer "
+      }
+    ]
+  }
+}
