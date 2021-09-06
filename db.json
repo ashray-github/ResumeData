@@ -52,7 +52,7 @@
         "school": "RVCE (R V College of Engineering)",
         "degree": "Master of Computer Applications (MCA)",
         "graduated": "August 2020",
-        "description": "With a KCET score of 32, I was accepted into a prestigious college. I learned a lot of things, particularly in non-technical areas, such as time management, money management, stress management, making acquintances or people skills, documentation, and communication. As part of the curriculum, I learned a variety of technical abilities. "
+        "description": "With a KCET rank of 32, I was accepted into a prestigious college. I learned a lot of things, particularly in non-technical areas, such as time management, money management, stress management, making acquintances or people skills, documentation, and communication. As part of the curriculum, I learned a variety of technical abilities. "
       },
       {
         "school": "RNSFGC (RNS First Grade college)",
@@ -66,7 +66,7 @@
         "company": "Cerner",
         "title": "Software Engineer",
         "years": "Jan 2020 - Present",
-        "description": "Placed from college, joined as an Intern for 6 months and got converted to full time and have been working for more than a year, worked on various projects as an Intern as well as a Full-time employee, Had a huge learning curve with respect to SDLC process and project management process, With the guidance of Exceptional Mentors like Krishna and Amit learnt various aspects of coding like debugging which plays a major role in Software Engineer's role. Created a Python program to get the DDL commands executed in a particular timeframe using oracle Database and a simple frontend HTML page using python libraries to view it. Implemented a full END-END service feature using spring-boot and react using vue.js to determine and download service transaction logs. Implemented REST spring-boot service to display the data using graph database i.e., neo4j using cipher query language and Java. Daily monitoring of splunk to check cloud logs and finding appropriate fixes. Worked on creating data objects like macros to ease splunking. Worked on various services that runs on docker containers. Participation during code reviews using Tool like crucible"
+        "description": "Placed from college, joined as an Intern for 6 months and got converted to full time and have been working for more than a year, worked on various projects as an Intern also as a Full-time employee, Had an enormous learning curve with reference to SDLC process and project management process, With the guidance of outstanding mentors like Krishna and Amit learnt various aspects of coding like debugging which plays a major role in Software Engineer's role. Created a Python program to get the DDL commands executed in a particular timeframe using oracle Database and a simple frontend HTML page using python libraries to view it. Implemented a full END-END service feature using spring-boot and react using vue.js to determine and download service transaction logs. Implemented REST spring-boot service to display the data using graph database i.e., neo4j using cipher query language and Java. Daily monitoring of splunk to check cloud logs and finding appropriate fixes. Worked on creating data objects like macros to ease splunking. Worked on various services that runs on docker containers. Participation during code reviews using Tool like crucible"
       },
       {
         "company": "Ignomagine",
