@@ -1,9 +1,9 @@
 {
   "main": {
     "name": "Ashray A",
-    "occupation": "Full Stack Software Developer",
-    "current_employer":"Cerner",
-    "description": "where I develop, maintain and fix Software applications which leverages various modern-day technologies",
+    "occupation": "Full Stack Cloud Developer",
+    "current_employer":"Bosch",
+    "description": "where I develop, maintain and fix Software applications along with cloud operations which leverages various modern-day technologies",
     "image": "profilepic.jpg",
     "bio": "I am a fitness enthusiast, Nature lover at heart with an entrepreneurial spirit, a knack for organizing and management of daily life and passion for coding. Born in silicon city of India (Bengaluru) took an interest to gain technical knowledge on various concepts especially automation. Worked on various automation projects like Burgular alarm system, Vehile speedometer based on hall effect sensor and Various applications of Bluetooth sensor. I like to travel, natural monuments and historical places are some of my interests also I like to binge-watch at available chances.",
     "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
@@ -63,9 +63,15 @@
     ],
     "work": [
       {
+        "company": "BGSW (Bosch Global Software)",
+        "title": "Software Engineer",
+        "years": "Oct 2021 - Present"
+        "description": "Looking for new opportunities on IOT and industry 4.0 joined in with aspirations, goals and mindset to learn, grow and achieve. Currently working on cloud services and learing hands on with device to cloud communication and operations along with coding for Frontend application and backend leveraging react,node,pm2 and nginx technology."
+      },
+      {
         "company": "Cerner",
         "title": "Software Engineer",
-        "years": "Jan 2020 - Present",
+        "years": "Jan 2020 - Sep 2021",
         "description": "Placed from college, joined as an Intern for 6 months and got converted to full time and have been working for more than a year, worked on various projects as an Intern also as a Full-time employee, Had an enormous learning curve with reference to SDLC process and project management process, With the guidance of outstanding mentors like Krishna and Amit learnt various aspects of coding like debugging which plays a major role in Software Engineer's role. Created a Python program to get the DDL commands executed in a particular timeframe using oracle Database and a simple frontend HTML page using python libraries to view it. Implemented a full END-END service feature using spring-boot and react using vue.js to determine and download service transaction logs. Implemented REST spring-boot service to display the data using graph database i.e., neo4j using cipher query language and Java. Daily monitoring of splunk to check cloud logs and finding appropriate fixes. Worked on creating data objects like macros to ease splunking. Worked on various services that runs on docker containers. Participation during code reviews using Tool like crucible"
       },
       {
@@ -93,7 +99,7 @@
         "level": "50%"
       },
       {
-        "name": "Springboot and maven",
+        "name": "Nodejs",
         "level": "70%"
       },
       {
@@ -107,6 +113,10 @@
       {
         "name":"neo4j",
         "level":"70%"
+      },
+      {
+        "name":"AWS & Azure",
+        "level":"20%"
       }
     ]
   },
