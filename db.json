@@ -64,7 +64,36 @@
 				"title": "Software Engineer",
 				"years": "Oct 2021 - Present",
 				"description": [
-					"Contributed significantly to <div className='boldtest'>iTyre</div> projects by designing and deploying AWS infrastructure. Key technologies included:</br><ul><li>AWS IoT Core: Orchestrated IoT device management and communication.</li><li>AWS SQS: Set up a reliable message queuing system.</li><li>AWS Lambda (Python): Developed serverless functions for data processing.</li><li>AWS S3: Managed data storage and retrieval.</li><li>AWS DynamoDB: Ensured efficient and scalable NoSQL database operations.</li><li>AWS Glue Jobs: Scheduled data analysis tasks using Python code.</li><li>AWS ECR and ECS: Containerized applications for flexible deployment.</li><li>AWS CodeCommit: Implemented version control and code management.</li><li>AWS CloudFront: Accelerated content delivery through a content delivery network.</li><li>AWS Cognito: Enhanced security and user management.</li></ul>In particular, my role involved extensive Python programming, utilizing libraries such as Pandas and NumPy to perform advanced data analysis, contributing to informed decision-making and optimization strategies."
+					"Currently, contributing significantly to <div className='boldtext'>iTyre</div> projects by designing and deploying AWS infrastructure.
+					Key technologies included:
+					</br>
+					<ul>
+					<li>AWS IoT Core: Orchestrated IoT device management and communication.</li>
+					<li>AWS SQS: Set up a reliable message queuing system.</li>
+					<li>AWS Lambda (Python): Developed serverless functions for data processing.</li>
+					<li>AWS S3: Managed data storage and retrieval.</li>
+					<li>AWS DynamoDB: Ensured efficient and scalable NoSQL database operations.</li>
+					<li>AWS Glue Jobs: Scheduled data analysis tasks using Python code.</li>
+					<li>AWS ECR and ECS: Containerized applications for flexible deployment.</li>
+					<li>AWS CodeCommit: Implemented version control and code management.</li>
+					<li>AWS CloudFront: Accelerated content delivery through a content delivery network.</li>
+					<li>AWS Cognito: Enhanced security and user management.</li>
+					</ul>
+					In particular, my role involved Python programming, utilizing libraries such as Pandas and NumPy to perform data analysis. Also preparation of SRS and Design documents and validating quality checks contributing to informed decision-making, advanced visualization and data optimization strategies.
+					</br>
+					Contributions to <div className='boldtext'>Sensata</div> Industrial plants project for data analysis and visualization involving python, javascript and AWS infrastructure.
+					Key technologies included:
+					</br>
+					<ul>
+					<li>Python data transformation layer: for data cleanup, parsing and realtime analysis</li>
+					<li>Nodejs and Express: Backend RESTful API's to serve the data from MongoDB</li>
+					<li>React: Certain components of react web application to call the backend api's and render data to graphs</li>
+					<li>Docker: Containerization of applications</li>
+					</ul>
+					</br>
+					Additional activities:
+					Have continued to provide coding guidance and trainings to interns and freshers.
+					"
 				]
 			},
 			{
@@ -75,7 +104,7 @@
 			},
 			{
 				"company": "Ignomagine",
-				"title": "Software Engineer/Advisor",
+				"title": "Software Engineer/Tech lead/Mentor",
 				"years": "May 2018 - 2019",
 				"description": "Joined hands in collaboration with a friend on his startup and provided technical expertise on various aspects of software development. Led development of mobile app with a team of 3 to manipulate hardware leveraging Bluetooth connection using Android Studio and Gradle. Worked on IoT based projects using Aurdino UNO and Raspberry PI and learnt various aspects of Embedded C programming and Python. Created android application that can manipulate a refrigeration device along with a display to temperature and other factors using Mobile Application Development. Created an Android Application for Burglar alarm system."
 			}
@@ -86,11 +115,11 @@
 			},
 			{
 				"name": "Python",
-				"level": "68%"
+				"level": "80%"
 			},
 			{
 				"name": "Java",
-				"level": "70%"
+				"level": "40%"
 			},
 			{
 				"name": "ReactJs",
@@ -99,10 +128,6 @@
 			{
 				"name": "Nodejs",
 				"level": "70%"
-			},
-			{
-				"name": "VueJs",
-				"level": "50%"
 			},
 			{
 				"name": "MYSQL",
